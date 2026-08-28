@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Mosque Dome -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,28 C45,28 36,36 34,48 L74,48 C72,36 63,28 54,28 Z" />
+    <!-- Mosque Arch and Base -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M32,48 L76,48 L76,82 L32,82 Z" />
+    <!-- Door Arch -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M46,82 L46,62 C46,57 50,54 54,54 C58,54 62,57 62,62 L62,82 Z" />
+    <!-- Left Minaret -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M24,38 L28,38 L28,82 L24,82 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M22,38 L30,38 L26,30 Z" />
+    <!-- Right Minaret -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M80,38 L84,38 L84,82 L80,82 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M78,38 L86,38 L82,30 Z" />
+    <!-- Glowing Crescent Moon on Dome -->
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M54,18 C51.5,18 49.3,19.2 48,21 C49.8,20.6 51.8,21.2 53.2,22.6 C54.6,24 55.2,26 54.8,27.8 C56.6,26.5 57.8,24.3 57.8,21.8 C57.8,19.7 56.1,18 54,18 Z" />
+    <!-- Small star top right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,18 L66.5,21.5 L70,22 L67.5,24.5 L68,28 L65,26 L62,28 L62.5,24.5 L60,22 L63.5,21.5 Z" />
+    <!-- Small star top left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,22 L39,24.5 L41.5,25 L39.5,27 L40,29.5 L38,28 L36,29.5 L36.5,27 L34.5,25 L37,24.5 Z" />
+</vector>

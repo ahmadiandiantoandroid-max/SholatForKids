@@ -1,0 +1,6 @@
+{
+  "name": "Jago Sholat",
+  "description": "Aplikasi edukasi dan gamifikasi sholat lima waktu untuk anak dengan panduan interaktif, pengingat, poin level, dan leaderboard sahabat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
